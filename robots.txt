@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Sitemap: https://chitchat.js.org/sitemap.xml
+Host: https://chitchat.js.org
